@@ -94,10 +94,6 @@ thread) is an interesting set of answers to the question: "Multiple people who
 are graduating college have asked how they can get into InfoSec. What is your
 advice for people with degrees?")
 
-I'll also immodestly add a plug for
-[my security bookmarks](https://pinboard.in/u:absfac/t:security/) which often
-filters material I find particularly interesting from the above sources.
-
 Useful blogs:
 
 * [Google Security Blog](https://security.googleblog.com/)
@@ -105,6 +101,14 @@ Useful blogs:
 
 Additionally many of the people in the Twitter list above also have blogs, many
 of which are worth following.
+
+Close study of the publications of [Stefan Savage][savage-ucsd]'s
+research group alone could fill several semesters of fruitful security
+education.
+
+I'll also immodestly add a plug for
+[my security bookmarks](https://pinboard.in/u:absfac/t:security/) which often
+filters material I find particularly interesting from the above sources.
 
 
 ### journals and conferences
@@ -132,10 +136,11 @@ the hacker mindset than most "real" journals.
 
 
 [anderson-2010]: https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523/
-[swartz-djb-2009]: http://www.aaronsw.com/weblog/djb
 [katz-coursera]: https://www.coursera.org/learn/cryptography
 [poc-or-gtfo]: https://unpack.debug.su/pocorgtfo/
+[savage-ucsd]: http://cseweb.ucsd.edu/~savage/
 [sterling-1992]: http://www.mit.edu/hacker/hacker.html
+[swartz-djb-2009]: http://www.aaronsw.com/weblog/djb
 [tomlee-2016]: https://tomlee.wtf/2016/08/14/black-hat-and-def-con/
 [usenix]: https://www.usenix.org/
 [usenix-enigma]: https://www.usenix.org/conference/enigma2016
