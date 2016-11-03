@@ -10,8 +10,8 @@ state, and iterating it.
 Software security is a fast-moving field, and at least some of the concrete
 technical material in these sources will be dated.  As you study this material,
 look for generalizable concepts more than specific factual nuggets; and when it
-comes to build actual systems, research on how current your knowledge is before
-applying it.
+comes time to build actual systems, research how current your knowledge is
+before applying it.
 
 
 Ross Anderson.
@@ -22,7 +22,7 @@ Ross Anderson.
 > readable and easy to consume in chapterlong chunks.  For most software
 > developers, many of the threats will way out on the tail of your practical
 > threat model (for example, you're probably not going to have the bandwidth to
-> do much about signals emissions).  However, overall I think this is an
+> do much about electromagnetic emissions).  However, overall I think this is an
 > outstanding place to start.
 
 
