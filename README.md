@@ -43,6 +43,17 @@ Michael Zalewski.
 > web, but it is still very much worth reading cover to cover.
 
 
+Bruce Sterling.
+[The Hacker Crackdown: Law and Disorder on the Electronic Frontier][sterling-1992]
+1992.
+
+> This is not a technical text; it's narrative nonfiction about the early
+> history of hacking.  Not strictly required to build systems today, but many of
+> the people you encounter will have heard this lore.  Knowing this history also
+> explains some cultural features of infosec, such as its distrust of US law
+> enforcement.
+
+
 ## news sources
 
 As noted above, the field moves fast.  Here are some random tips for keeping up
@@ -124,6 +135,7 @@ the hacker mindset than most "real" journals.
 [swartz-djb-2009]: http://www.aaronsw.com/weblog/djb
 [katz-coursera]: https://www.coursera.org/learn/cryptography
 [poc-or-gtfo]: https://unpack.debug.su/pocorgtfo/
+[sterling-1992]: http://www.mit.edu/hacker/hacker.html
 [tomlee-2016]: https://tomlee.wtf/2016/08/14/black-hat-and-def-con/
 [usenix]: https://www.usenix.org/
 [usenix-enigma]: https://www.usenix.org/conference/enigma2016
