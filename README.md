@@ -88,11 +88,11 @@ patience to wade through Twitter.  Here are some good accounts to follow:
 Lastly a lot of people like
 [\@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) (yes, really) but I
 personally find the signal-to-noise ratio too low and prefer to see only the
-content that other people retweet.  (On the other hand,
-[https://twitter.com/SwiftOnSecurity/status/592469306069266435](this Twitter
-thread) is an interesting set of answers to the question: "Multiple people who
-are graduating college have asked how they can get into InfoSec. What is your
-advice for people with degrees?")
+content that other people retweet.  (On the other hand, [this Twitter
+thread](https://twitter.com/SwiftOnSecurity/status/592469306069266435) is an
+interesting set of answers to the question: "Multiple people who are graduating
+college have asked how they can get into InfoSec. What is your advice for people
+with degrees?"
 
 Useful blogs:
 
