@@ -4,6 +4,11 @@ Disclaimer: I am not a security expert.  Also, clearly, this is a work in
 progress.  Nevertheless it's worth putting this out there, in whatever rough
 state, and iterating it.
 
+This guide is geared towards generalist software developers who want to become
+clueful enough about information security to do their job well.  There are
+probably better resources for people who want to become professional infosec
+specialists.
+
 
 ## a course of self-study
 
@@ -52,6 +57,11 @@ Bruce Sterling.
 > the people you encounter will have heard this lore.  Knowing this history also
 > explains some cultural features of infosec, such as its distrust of US law
 > enforcement.
+
+
+Lastly, Thomas Ptacek has a [much more thorough annotated reading list on
+application security][tptacek-amazon], arguably more oriented towards aspiring
+infosec professionals.
 
 
 ## news sources
@@ -142,6 +152,7 @@ the hacker mindset than most "real" journals.
 [sterling-1992]: http://www.mit.edu/hacker/hacker.html
 [swartz-djb-2009]: http://www.aaronsw.com/weblog/djb
 [tomlee-2016]: https://tomlee.wtf/2016/08/14/black-hat-and-def-con/
+[tptacek-amazon]: https://www.amazon.com/gp/richpub/listmania/fullview/R2EN4JTQOCHNBA/
 [usenix]: https://www.usenix.org/
 [usenix-enigma]: https://www.usenix.org/conference/enigma2016
 [usenix-security]: https://www.usenix.org/conferences/byname/108
