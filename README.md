@@ -86,7 +86,7 @@ patience to wade through Twitter.  Here are some good accounts to follow:
 * [\@evacide](https://twitter.com/evacide) - Eva Galperin, policy analyst at EFF.
 * [\@wseltzer](https://twitter.com/wseltzer) Wendy Seltzer, law professor, privacy & security policy issues etc.
 * [\@astepanovich](https://twitter.com/astepanovich) - Amie Stepanovich, digital privacy & security policy issues etc.
-* [\@\_\_apf\_\_](https://twitter.com/__apf__) - [Adrienne Porter Felt](http://www.adrienneporterfelt.com/), "usable security" lead for Chrome.
+* [\@\_\_apf\_\_](https://twitter.com/__apf__) - [Adrienne Porter Felt](https://www.adrienneporterfelt.com/), "usable security" lead for Chrome.
 * [\@agl\_\_](https://twitter.com/agl__) - Adam Langley, Chrome developer & crypto hacker.
 * [\@sleevi\_](https://twitter.com/sleevi_) - Ryan Sleevi, chromium security.
 * [\@ErrataRob](https://twitter.com/ErrataRob) - Rob Graham, author of massscan and other tools, self-described troll.
