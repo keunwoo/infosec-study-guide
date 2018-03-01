@@ -156,4 +156,4 @@ the hacker mindset than most "real" journals.
 [usenix]: https://www.usenix.org/
 [usenix-enigma]: https://www.usenix.org/conference/enigma2016
 [usenix-security]: https://www.usenix.org/conferences/byname/108
-[zalewski-2011]: https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886/
+[zalewski-2011]: https://nostarch.com/tangledweb
